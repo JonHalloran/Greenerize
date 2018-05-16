@@ -9,7 +9,7 @@
   "description": "Phantom project creation script",
   "license": "ISC",
   "main": "./index",
-  "name": "@project-phantom/create",
+  "name": "jh-si-repo",
   "scripts": {
     "test": "test"
   },
