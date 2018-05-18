@@ -6,13 +6,13 @@
     "strip-eof": "^1.0.0"
   },
   "deprecated": false,
-  "description": "Phantom project creation script",
+  "description": "Keeping gardens green",
   "license": "ISC",
   "main": "./index",
-  "name": "jh-si-repo",
+  "name": "greenerize",
   "scripts": {
     "test": "test"
   },
   "bin": "./npx.js",
-  "version": "0.0.22"
+  "version": "0.0.1"
 }
